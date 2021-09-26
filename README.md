@@ -26,7 +26,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <iframe src='https://github.com/SRM-3rd-Year-Project/Movie-recommendation-system-/blob/main/PPT/Mini%20Project%20Review.pdf' width='100%' height='600px' frameborder='0'>
+    <img src='https://github.com/SRM-3rd-Year-Project/Movie-recommendation-system-/blob/main/PPT/Mini%20Project%20Review.pdf' width='100%' height='600px' frameborder='0'>
   </a>
 
   <h3 align="center">Best-README-Template</h3>
