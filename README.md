@@ -21,7 +21,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-https://github.com/SRM-3rd-Year-Project/Movie-recommendation-system-/blob/main/PPT/Mini%20Project%20Review.pdf
+[!https://github.com/SRM-3rd-Year-Project/Movie-recommendation-system-/blob/main/PPT/Mini%20Project%20Review.pdf]
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
