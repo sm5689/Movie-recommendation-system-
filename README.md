@@ -21,12 +21,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
+PPT
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src='https://github.com/SRM-3rd-Year-Project/Movie-recommendation-system-/blob/main/PPT/Mini%20Project%20Review.pdf' width='100%' height='600px' frameborder='0'>
   </a>
 
   <h3 align="center">Best-README-Template</h3>
@@ -190,6 +189,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
+* [PPT](https://github.com/SRM-3rd-Year-Project/Movie-recommendation-system-/blob/main/PPT/Mini%20Project%20Review.pdf)
 
 
 
