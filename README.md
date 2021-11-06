@@ -109,7 +109,7 @@ This section consist of list of major frameworks that were used in our project. 
 
 
 ### Demo
-```html
+```HTML
 <h2>Example of code</h2>
 
 <pre>
