@@ -35,7 +35,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=k5e0udGD1OM&ab_channel=NisargDoshi">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
@@ -53,7 +53,6 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#demo">Demo</a></li>
       </ul>
     </li>
     <li>
@@ -106,23 +105,6 @@ This section consist of list of major frameworks that were used in our project. 
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [MySql](https://www.mysql.com/)
 * [Python](https://www.python.org/)
-
-
-### Demo
-```HTML
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
 
 
 <!-- GETTING STARTED -->
