@@ -1,4 +1,4 @@
-# Movie-recommendation-system-
+# Movie-recommendation-system
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -27,10 +27,10 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">MOVIE RECOMMENDATION SYSTEM</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome UI software which can recommend you movies,webshows!!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
