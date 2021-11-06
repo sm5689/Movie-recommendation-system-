@@ -72,7 +72,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 <p align="left">
 A recommendation system is a type of information filtering system which attempts to predict the 
 preferences of a user, and make suggests based on these preferences. There are a wide variety of 
