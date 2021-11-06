@@ -77,24 +77,34 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+<p align="left">
+A recommendation system is a type of information filtering system which attempts to predict the 
+preferences of a user, and make suggests based on these preferences. There are a wide variety of 
+applications for recommendation systems. These have become increasingly popular over the last few 
+years and are now utilized in most online platforms that we use. The content of such platforms varies 
+from movies, music, books and videos, to friends and stories on social media platforms, to products on 
+e-commerce websites, to people on professional and dating websites, to search results returned on 
+Google. Often, these systems are able to collect information about a users choices, and can use this 
+information to improve their suggestions in the future. In the browser, if we search movie name it will 
+give similar movies related to that input movie. This is done by three recommendation engine such as 
+popular based recommendation engine, content-based recommendation engine, collaborative filtering based recommendation engine.</p>
+<p align="left">
+The popular based recommendation engine is nothing but trending list on YouTube, Netflix, etc. They 
+will keep on tracking the video views and update the on-trending list. The content-based 
+recommendation engine is taking the input from the user and give a similar rank list based on the 
+content related to the input movie. In this project, the content-based recommendation engine is used. 
+The collaborative filtering-based recommendation engine is first search the similar user based on their 
+activity and behavior and if the first user and second user have seen the same movie and if the first 
+user has seen the new movie but if the second user not. It recommends new movies to a second user and 
+vice-versa</p>
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+This section consist of list of major frameworks that were used in our project. Additionally add-ons/plugins are mentioned in the  acknowledgements section. Here are a few examples.
+* [Javascript](https://www.javascript.com/)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [MySql](https://www.mysql.com/)
+* [Python](https://www.python.org/)
 
 
 
