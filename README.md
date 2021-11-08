@@ -100,6 +100,7 @@ This section consist of list of major frameworks that were used in our project. 
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [MySql](https://www.mysql.com/)
 * [Python](https://www.python.org/)
+* [NodeJs](https://nodejs.org/en/)
 
 
 <!-- GETTING STARTED -->
