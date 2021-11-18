@@ -28,7 +28,7 @@
   <h3 align="center">MOVIE RECOMMENDATION SYSTEM</h3>
 
   <p align="center">
-    An awesome UI software which can recommend you movies,webshows!!
+    An awesome UI software which can recommend you movies,webshows!! 
     <br />
     <a href="https://github.com/SRM-3rd-Year-Project/Movie-recommendation-system-/blob/main/PPT/Mini%20Project%20Review.pdf"><strong>Explore the docs »</strong></a>
     <br />
