@@ -36,7 +36,7 @@
     <li>
       <a href="#website-Preview">Getting Started</a>
       <ul>
-        <li><a href="#Sign-In-/-Sign-Up-Page">Sign-In / Sign-Up Page</a></li>
+        <li><a href="#Sign-In / Sign Up Page">Sign-In / Sign-Up Page</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
