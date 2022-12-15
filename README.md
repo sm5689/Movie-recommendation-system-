@@ -87,7 +87,7 @@ This section consist of list of major frameworks that were used in our project. 
 <!-- PREVIEW -->
 ## Website Preview
 
-### 1. User Access Page
+## 1. User Access Page
 ![Sign - up](https://user-images.githubusercontent.com/70905787/207908010-2c24a53c-3002-4a3b-9981-3631ea186cb6.jpg)
 
 2. Home Page
