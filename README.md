@@ -172,20 +172,10 @@ Contributions are what make the open source community such an amazing place to l
 5. Open a Pull Request
 
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [User-Based Collaborative Filtering](https://medium.com/@cfpinela/recommender-systems-user-based-and-item-based-collaborative-filtering-5d5f375a127f)
+* [IMDB API](https://imdb-api.com/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
