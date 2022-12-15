@@ -30,11 +30,11 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Website-Preview">Website Preview</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#website-Preview">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -45,7 +45,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -75,7 +74,7 @@ activity and behavior and if the first user and second user have seen the same m
 user has seen the new movie but if the second user not. It recommends new movies to a second user and 
 vice-versa</p>
 
-### Built With
+### Built Using
 
 This section consist of list of major frameworks that were used in our project. Additionally add-ons/plugins are mentioned in the  acknowledgements section. Here are a few examples.
 * [Javascript](https://www.javascript.com/)
@@ -85,13 +84,33 @@ This section consist of list of major frameworks that were used in our project. 
 * [NodeJs](https://nodejs.org/en/)
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- PREVIEW -->
+## Website Preview
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### 1. Sign-In / Sign-Up Page
+![Sign - up](https://user-images.githubusercontent.com/70905787/207908010-2c24a53c-3002-4a3b-9981-3631ea186cb6.jpg)
 
-### Prerequisites
+2. Home Page
+![Home page](https://user-images.githubusercontent.com/70905787/207908085-c018acd8-cb51-42ea-a3bf-3d95f723e036.jpg)
+
+3. Watchlist Section
+![watchlist](https://user-images.githubusercontent.com/70905787/207908246-58529551-d8a1-42fb-8716-9f394c5b720b.jpg)
+
+4. Tracker Section
+![tracker](https://user-images.githubusercontent.com/70905787/207908367-03e1f2f6-9084-4224-bde0-c408ff6a4649.jpg)
+
+5. Recommendation Section
+![recommendations](https://user-images.githubusercontent.com/70905787/207908574-0b05eb33-f2d5-4d83-9a3a-087bb130d0e3.jpg)
+
+6. Explore Section
+![explore](https://user-images.githubusercontent.com/70905787/207908656-c06fb41c-9983-48f3-b397-4d343606d49c.jpg)
+
+7. Support Section
+![support](https://user-images.githubusercontent.com/70905787/207908766-a3f4aa67-066d-40f7-9434-787844921d6b.jpg)
+
+
+
+## Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -99,7 +118,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+## Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -161,21 +180,6 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-* [PPT](https://github.com/SRM-3rd-Year-Project/Movie-recommendation-system-/blob/main/PPT/Mini%20Project%20Review.pdf)
 
 
 
