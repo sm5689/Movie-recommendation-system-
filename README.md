@@ -30,7 +30,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Website Preview</a>
+      <a href="#website-Preview">Website Preview</a>
       <ul>
         <li>User Access Page</li>
         <li>Home Page</li>
