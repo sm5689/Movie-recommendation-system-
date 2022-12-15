@@ -34,7 +34,7 @@
       </ul>
     </li>
     <li>
-      <a href="#user-access-Preview">Getting Started</a>
+      <a href="#website-Preview">Website Preview</a>
       <ul>
         <li>User Access Page</li>
         <li>Home Page</li>
