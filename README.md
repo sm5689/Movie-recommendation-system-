@@ -36,7 +36,7 @@
     <li>
       <a href="#user-access-Preview">Getting Started</a>
       <ul>
-        <li><a href="#website-Preview">User Access Page</a></li>
+        <li><a href="#user-access-Page">User Access Page</a></li>
         <li><a href="#Home-Page">Home Page</a></li>
         <li><a href="#Watchlist-Section">Watchlist Section</a></li>
         <li><a href="#Tracker-Section">Tracker Section</a></li>
