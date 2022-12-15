@@ -43,10 +43,8 @@
     </li>
     <li><a href="#block-Diagram">Block Diagram</a></li>
     <li><a href="#user-Based-Collaborative-Filtering">User-Based Collaborative Filtering</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contributing">Contributing</a></li>
   </ol>
 </details>
 
@@ -160,6 +158,13 @@ In other words, we are creating a User-Item Matrix, predicting the ratings on it
 
 ![image](https://user-images.githubusercontent.com/70905787/207918226-179e0262-bd2d-4722-9cba-5b64c45827bb.png)
 
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [User-Based Collaborative Filtering](https://medium.com/@cfpinela/recommender-systems-user-based-and-item-based-collaborative-filtering-5d5f375a127f)
+* [IMDB API](https://imdb-api.com/)
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -170,12 +175,6 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [User-Based Collaborative Filtering](https://medium.com/@cfpinela/recommender-systems-user-based-and-item-based-collaborative-filtering-5d5f375a127f)
-* [IMDB API](https://imdb-api.com/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
