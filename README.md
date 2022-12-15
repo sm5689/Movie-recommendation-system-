@@ -42,7 +42,7 @@
       </ul>
     </li>
     <li><a href="#block-Diagram">Block Diagram</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#user-Based-Collaborative-Filtering">User-Based Collaborative Filtering</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -143,10 +143,20 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Algo -->
+## User-Based Collaborative Filtering
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+Imagine that we want to recommend a movie to our friend Stanley. We could assume that similar people will have similar taste. Suppose that me and Stanley have seen the same movies, and we rated them all almost identically. But Stanley hasn’t seen ‘The Godfather: Part II’ and I did. If I love that movie, it sounds logical to think that he will too. With that, we have created an artificial rating based on our similarity.
+
+Well, UB-CF uses that logic and recommends items by finding similar users to the active user (to whom we are trying to recommend a movie). A specific application of this is the user-based Nearest Neighbor algorithm. This algorithm needs two tasks:
+
+1.Find the K-nearest neighbors (KNN) to the user a, using a similarity function w to measure the distance between each pair of users:
+
+[Uploading 1_v2xODj5o8MQGy8oDRbMAFw.webp…]()
+
+2.Predict the rating that user a will give to all items the k neighbors have consumed but a has not. We Look for the item j with the best predicted rating.
+
+In other words, we are creating a User-Item Matrix, predicting the ratings on items the active user has not see, based on the other similar users. This technique is memory-based.
 
 
 
