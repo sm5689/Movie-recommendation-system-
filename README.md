@@ -1,24 +1,4 @@
 # Movie-recommendation-system
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![MIT License][license-shield]][license-url]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -97,7 +77,7 @@ activity and behavior and if the first user and second user have seen the same m
 user has seen the new movie but if the second user not. It recommends new movies to a second user and 
 vice-versa</p>
 
-### Built With
+### Built Using
 
 This section consist of list of major frameworks that were used in our project. Additionally add-ons/plugins are mentioned in the  acknowledgements section. Here are a few examples.
 * [Javascript](https://www.javascript.com/)
@@ -107,11 +87,30 @@ This section consist of list of major frameworks that were used in our project. 
 * [NodeJs](https://nodejs.org/en/)
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Preview -->
+## Website Preview
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1. User Access Page
+![Sign - up](https://user-images.githubusercontent.com/70905787/207915340-ced2aea5-007f-4f50-bffc-161591d164f5.jpg)
+
+2. Home Page
+![Home page](https://user-images.githubusercontent.com/70905787/207915396-1f4c583c-4c97-44ea-a9eb-335220b1275b.jpg)
+
+3. Watchlist Section
+![watchlist](https://user-images.githubusercontent.com/70905787/207915452-e3590d9a-685e-496d-ba5a-2bbea628fadb.jpg)
+
+4. Tracker Section
+![tracker](https://user-images.githubusercontent.com/70905787/207915517-e24e1c8a-7332-4035-819c-6d9ae01349bb.jpg)
+
+5. Recommendation Section
+![recommendations](https://user-images.githubusercontent.com/70905787/207915566-9b1940b4-c3dd-4a4e-b716-d376db74b3ab.jpg)
+
+
+6. Explore Section
+![explore](https://user-images.githubusercontent.com/70905787/207915613-8cc9dfa7-1245-4f15-99cd-7475f7716f0b.jpg)
+
+7. Support Section
+![support](https://user-images.githubusercontent.com/70905787/207915681-88efd676-076a-4009-85c4-2ccc4cf29b5c.jpg)
 
 ### Prerequisites
 
