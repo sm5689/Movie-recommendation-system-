@@ -30,14 +30,19 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Website-Preview">Website Preview</a></li>
+        <li><a href="#built-using">Built Using</a></li>
       </ul>
     </li>
     <li>
       <a href="#user-access-Preview">Getting Started</a>
       <ul>
         <li><a href="#website-Preview">User Access Page</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Home-Page">Home Page</a></li>
+        <li><a href="#Watchlist-Section">Watchlist Section</a></li>
+        <li><a href="#Tracker-Section">Tracker Section</a></li>
+        <li><a href="#Recommendation-Section">Recommendation Section</a></li>
+        <li><a href="#Explore-Section">Explore Section</a></li>
+        <li><a href="#Support-Section">Support Section</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -90,22 +95,22 @@ This section consist of list of major frameworks that were used in our project. 
 ## 1. User Access Page
 ![Sign - up](https://user-images.githubusercontent.com/70905787/207908010-2c24a53c-3002-4a3b-9981-3631ea186cb6.jpg)
 
-2. Home Page
+## 2. Home Page
 ![Home page](https://user-images.githubusercontent.com/70905787/207908085-c018acd8-cb51-42ea-a3bf-3d95f723e036.jpg)
 
-3. Watchlist Section
+## 3. Watchlist Section
 ![watchlist](https://user-images.githubusercontent.com/70905787/207908246-58529551-d8a1-42fb-8716-9f394c5b720b.jpg)
 
-4. Tracker Section
+## 4. Tracker Section
 ![tracker](https://user-images.githubusercontent.com/70905787/207908367-03e1f2f6-9084-4224-bde0-c408ff6a4649.jpg)
 
-5. Recommendation Section
+## 5. Recommendation Section
 ![recommendations](https://user-images.githubusercontent.com/70905787/207908574-0b05eb33-f2d5-4d83-9a3a-087bb130d0e3.jpg)
 
-6. Explore Section
+## 6. Explore Section
 ![explore](https://user-images.githubusercontent.com/70905787/207908656-c06fb41c-9983-48f3-b397-4d343606d49c.jpg)
 
-7. Support Section
+## 7. Support Section
 ![support](https://user-images.githubusercontent.com/70905787/207908766-a3f4aa67-066d-40f7-9434-787844921d6b.jpg)
 
 
