@@ -32,14 +32,13 @@
     <li>
       <a href="#getting-started">Website Preview</a>
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>User Access Page</li>
+        <li>Home Page</li>
+        <li>Watchlist Section</li>
+        <li>Tracker Section</li>
+        <li>Recommendation Section</li>
+        <li>Explore Section</li>
+        <li>Support Section</li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -104,7 +103,6 @@ This section consist of list of major frameworks that were used in our project. 
 
 5. Recommendation Section
 ![recommendations](https://user-images.githubusercontent.com/70905787/207915566-9b1940b4-c3dd-4a4e-b716-d376db74b3ab.jpg)
-
 
 6. Explore Section
 ![explore](https://user-images.githubusercontent.com/70905787/207915613-8cc9dfa7-1245-4f15-99cd-7475f7716f0b.jpg)
