@@ -152,13 +152,13 @@ Well, UB-CF uses that logic and recommends items by finding similar users to the
 
 1.Find the K-nearest neighbors (KNN) to the user a, using a similarity function w to measure the distance between each pair of users:
 
-[Uploading 1_v2xODj5o8MQGy8oDRbMAFw.webp…]()
+<img width="1005" alt="image" src="https://user-images.githubusercontent.com/70905787/207918176-e5a50f35-3a65-40d6-b732-130cc923a772.png">
 
 2.Predict the rating that user a will give to all items the k neighbors have consumed but a has not. We Look for the item j with the best predicted rating.
 
 In other words, we are creating a User-Item Matrix, predicting the ratings on items the active user has not see, based on the other similar users. This technique is memory-based.
 
-
+![image](https://user-images.githubusercontent.com/70905787/207918226-179e0262-bd2d-4722-9cba-5b64c45827bb.png)
 
 <!-- CONTRIBUTING -->
 ## Contributing
