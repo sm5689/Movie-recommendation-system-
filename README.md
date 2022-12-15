@@ -30,19 +30,19 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-using">Built Using</a></li>
+        <li>Built Using</li>
       </ul>
     </li>
     <li>
       <a href="#user-access-Preview">Getting Started</a>
       <ul>
-        <li><a href="#user-Access-Page">User Access Page</a></li>
-        <li><a href="#Home-Page">Home Page</a></li>
-        <li><a href="#Watchlist-Section">Watchlist Section</a></li>
-        <li><a href="#Tracker-Section">Tracker Section</a></li>
-        <li><a href="#Recommendation-Section">Recommendation Section</a></li>
-        <li><a href="#Explore-Section">Explore Section</a></li>
-        <li><a href="#Support-Section">Support Section</a></li>
+        <li>User Access Page</li>
+        <li>Home Page</li>
+        <li>Watchlist Section</li>
+        <li>Tracker Section</li>
+        <li>Recommendation Section</li>
+        <li>Explore Section</li>
+        <li>Support Section</li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
