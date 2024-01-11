@@ -185,3 +185,11 @@ Contributions are what make the open source community such an amazing place to l
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+
+## Team Members 🤝
+
+- **[Nisarg Doshi](https://github.com/Nisarg20)**: Developer 1
+- **[Suraj Mishra](https://github.com/sm5689)**: Developer 2
+
+- Both of us have been pivotal in shaping the backend architecture and integrating machine learning models and we specializes in data analysis and algorithm optimization, ensuring top-notch recommendations.
+
